@@ -19,7 +19,7 @@ module.exports = (program, fs, path) => {
 function printDirectory(rootPath, currentPath, fs, path) {
   fs.readdirSync(path.resolve(currentPath))
     .filter((file) => {
-      const skipDirectoriesAndFiles = ['node_modules']
+      const skipDirectoriesAndFiles = ['node_modules', '.git']
       return skipDirectoriesAndFiles.indexOf(file) === -1;
     })
     .sort((previousValue, currentValue) => {

@@ -19,3 +19,19 @@ $ directorier output [flag]
 |---|---|---|
 | --help | -h | output usage information |
 | -- path | -p | Specify directory path |
+
+### Result
+
+```
+directorier
+├─ .gitignore
+├─ bin
+│  ├─ customHelp.js
+│  ├─ directoryTree.js
+│  ├─ index.js
+│  └─ version.js
+├─ index.js
+├─ package-lock.json
+├─ package.json
+└─ README.md
+```
