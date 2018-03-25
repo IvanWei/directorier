@@ -1,0 +1,29 @@
+{
+  "name": "directorier",
+  "version": "0.0.1",
+  "description": "Print directory tree",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "bin": {
+    "directorier": "./index.js"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IvanWei/directorier"
+  },
+  "keywords": [
+    "directory",
+    "tree"
+  ],
+  "author": "Ivan Wei <scorpionseed@gmail.com> (https://blog.ivanwei.co)",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
+}
