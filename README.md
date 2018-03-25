@@ -35,3 +35,9 @@ directorier
 ├─ package.json
 └─ README.md
 ```
+
+## License
+
+[The MIT License](https://raw.githubusercontent.com/ivanwei/passport-line-auth/master/LICENSE)
+
+Copyright(c) 2018 Ivan Wei <[https://blog.ivanwei.co/](https://blog.ivanwei.co/)>
