@@ -6,6 +6,13 @@
   "files": [
     "index.js"
   ],
+  "keywords": [
+    "directorier",
+    "directory",
+    "folder",
+    "tree",
+    "terminal"
+  ],
   "bin": {
     "directorier": "./index.js"
   },
