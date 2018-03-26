@@ -1,6 +1,6 @@
 {
   "name": "directorier",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Print directory tree",
   "main": "index.js",
   "files": [
