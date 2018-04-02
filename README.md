@@ -18,7 +18,7 @@ $ directorier output [flag]
 | Flag | Short Flag | Description |
 |---|---|---|
 | --help | -h | output usage information |
-| -- path | -p | Specify directory path |
+| --path | -p | Specify directory path |
 
 ### Result
 
