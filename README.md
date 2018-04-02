@@ -25,15 +25,19 @@ $ directorier output [flag]
 ```
 directorier
 ├─ .gitignore
-├─ bin
+├─ .npmignore
+├─ index.js
+├─ lib
 │  ├─ customHelp.js
 │  ├─ directoryTree.js
 │  ├─ index.js
 │  └─ version.js
-├─ index.js
+├─ LICENSE
 ├─ package-lock.json
 ├─ package.json
 └─ README.md
+
+Directories: 2, files: 11
 ```
 
 ## License
